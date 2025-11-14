@@ -1,31 +1,16 @@
 [PROFIL:NormalGun]
-07:50=Okul Açılışı
-07:55=1. Ders Başlangıç
-08:35=1. Ders Bitiş
-09:15=2. Ders Bitiş
-09:55=1. Ara
-10:10=3. Ders Başlangıç
-10:50=3. Ders Bitiş
-11:30=4. Ders Bitiş
-11:40=2. Ara
-12:20=5. Ders Bitiş
-13:00=Okul Kapanışı
+07:50==öğretmen hazırlık
+07:55=1=Başlangıç
+08:35=2=Başlangıç
+09:15=3=Başlangıç
+09:55==1. teneffüs
+10:10=4.=Başlangıç
+10:50=5=Başlangıç
+11:30==2. teneffüs
+11:40=6=Başlangıç
+12:20=7=Başlangıç
+13:00==Okul Kapanışı
 [PROFIL:OgleOkulu]
-14:00=Öğle Okulu Başlangıç
-14:40=1. Ders Bitiş
-15:20=2. Ders Bitiş
-[PROFIL:OgleOkulu2]
-07:50=Okul Açılışı
-07:55=1. Ders Başlangıç
-08:35=1. Ders Bitiş
-09:15=2. Ders Bitiş
-09:55=1. Ara
-10:10=3. Ders Başlangıç
-10:50=3. Ders Bitiş
-11:30=4. Ders Bitiş
-11:40=2. Ara
-12:20=5. Ders Bitiş
-13:00=öğle okulu arası
-14:00=ara bitiş
-14:40=7. ders bitiş
-15:20=öğle okulu bitiş
+14:00=8=Başlangıç
+14:40=9=Başlangıç
+15:20==öğle okulu bitiş
